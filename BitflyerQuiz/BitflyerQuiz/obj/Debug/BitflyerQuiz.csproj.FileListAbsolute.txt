@@ -1,0 +1,7 @@
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\bin\Debug\BitflyerQuiz.exe.config
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\bin\Debug\BitflyerQuiz.exe
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\bin\Debug\BitflyerQuiz.pdb
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\obj\Debug\BitflyerQuiz.csprojAssemblyReference.cache
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\obj\Debug\BitflyerQuiz.csproj.CoreCompileInputs.cache
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\obj\Debug\BitflyerQuiz.exe
+C:\Users\theanh\source\repos\BitflyerQuiz\BitflyerQuiz\obj\Debug\BitflyerQuiz.pdb
